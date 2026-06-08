@@ -1,3 +1,1 @@
-# MyGitRepo
-
-我的GitHub同步仓库
+鑷繁璁板綍
